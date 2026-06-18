@@ -1,4 +1,4 @@
-# Pedro Lucas de Brito Dantas
+# Pedro Lucas
 
 Estudante de Ciência da Computação na UFCG | Técnico em Informática pelo IFPB
 
