@@ -1,4 +1,4 @@
-# Olá, eu sou Pedro Lucas 👋
+# Pedro Lucas de Brito Dantas
 
 Estudante de Ciência da Computação na UFCG | Técnico em Informática pelo IFPB
 
